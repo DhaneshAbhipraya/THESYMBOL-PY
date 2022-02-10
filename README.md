@@ -1,2 +1,2 @@
 # THESYMBOL-PY
-THESYMBOL on python with basic CLI
+THESYMBOL with only the Python language with basic CLI
